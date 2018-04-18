@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gaking</groupId>
-	<artifactId>usermanagement</artifactId>
+	<artifactId>usermanagement0313</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>usermanagement</name>
+	<name>usermanagement0313</name>
 	<description></description>
 
 	<parent>
